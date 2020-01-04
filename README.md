@@ -13,7 +13,7 @@
 <div align=center>
 
 [![author](https://img.shields.io/badge/author-jbee-ff69b4.svg?style=flat-square)](https://jbee.io/about)
-[![CONTRIBUTORS](https://img.shields.io/badge/contributors-41-green.svg?style=flat-square)](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/CONTRIBUTING.md)
+[![CONTRIBUTORS](https://img.shields.io/badge/contributors-45-green.svg?style=flat-square)](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/CONTRIBUTING.md)
 [![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/LICENSE)
 [![HitCount](http://hits.dwyl.io/JaeYeopHan/Interview_Question_for_Beginner.svg)](http://hits.dwyl.io/JaeYeopHan/Interview_Question_for_Beginner)
 
@@ -322,6 +322,7 @@
 - [Front-end Checklist](https://github.com/kesuskim/Front-End-Checklist)
   - 면접 시 물어보기 가장 좋은 것들이 '기본'에 대한 내용이라고 생각되는데요, 그 '기본'에 대해 체크리스트 형식으로 잘 정리되어 있는 문서를 공유합니다.
 - [Front-end Interview Handbook (한국어)](https://github.com/yangshun/front-end-interview-handbook/tree/master/Translations/Korean)
+- [React 구조에 대한 고민 시리즈](https://jbee.io/react/react-0-intro/)
 
 </br>
 
